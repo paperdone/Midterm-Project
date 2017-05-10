@@ -21,6 +21,7 @@
     "axios": "^0.16.1",
     "babel-polyfill": "^6.23.0",
     "bootstrap": "^4.0.0-alpha.6",
+    "prop-types": "^15.5.4",
     "moment": "^2.18.1",
     "react": "^15.5.4",
     "react-addons-css-transition-group": "^15.5.2",
@@ -30,7 +31,8 @@
     "react-router-dom": "^4.1.1",
     "reactstrap": "^4.5.0",
     "redux": "^3.6.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
